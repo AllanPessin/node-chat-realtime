@@ -1,6 +1,6 @@
 <h1 align="center"> Chat em tempo real</h1>
 
-## Uma aplcação em Node.Js utilizando socket.io para simular um chat em tempo real.
+## Uma aplicação em Node.Js utilizando socket.io para simular um chat em tempo real.
 
 * [Como usar](#como-usar)
 
